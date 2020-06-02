@@ -1,0 +1,176 @@
+@font-face {
+    font-family: Vazir;
+    src: url('https://cdn.rawgit.com/rastikerdar/vazir-font/v26.0.2/dist/Vazir.eot');
+    src: url('https://cdn.rawgit.com/rastikerdar/vazir-font/v26.0.2/dist/Vazir.eot?#iefix') format('embedded-opentype'),
+         url('https://cdn.rawgit.com/rastikerdar/vazir-font/v26.0.2/dist/Vazir.woff2') format('woff2'),
+         url('https://cdn.rawgit.com/rastikerdar/vazir-font/v26.0.2/dist/Vazir.woff') format('woff'),
+         url('https://cdn.rawgit.com/rastikerdar/vazir-font/v26.0.2/dist/Vazir.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: Vazir;
+    src: url('https://cdn.rawgit.com/rastikerdar/vazir-font/v26.0.2/dist/Vazir-Bold.eot');
+    src: url('https://cdn.rawgit.com/rastikerdar/vazir-font/v26.0.2/dist/Vazir-Bold.eot?#iefix') format('embedded-opentype'),
+         url('https://cdn.rawgit.com/rastikerdar/vazir-font/v26.0.2/dist/Vazir-Bold.woff2') format('woff2'),
+         url('https://cdn.rawgit.com/rastikerdar/vazir-font/v26.0.2/dist/Vazir-Bold.woff') format('woff'),
+         url('https://cdn.rawgit.com/rastikerdar/vazir-font/v26.0.2/dist/Vazir-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+@font-face {
+    font-family: Vazir;
+    src: url('https://cdn.rawgit.com/rastikerdar/vazir-font/v26.0.2/dist/Vazir-Black.eot');
+    src: url('https://cdn.rawgit.com/rastikerdar/vazir-font/v26.0.2/dist/Vazir-Black.eot?#iefix') format('embedded-opentype'),
+         url('https://cdn.rawgit.com/rastikerdar/vazir-font/v26.0.2/dist/Vazir-Black.woff2') format('woff2'),
+         url('https://cdn.rawgit.com/rastikerdar/vazir-font/v26.0.2/dist/Vazir-Black.woff') format('woff'),
+         url('https://cdn.rawgit.com/rastikerdar/vazir-font/v26.0.2/dist/Vazir-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+@font-face {
+    font-family: Vazir;
+    src: url('https://cdn.rawgit.com/rastikerdar/vazir-font/v26.0.2/dist/Vazir-Medium.eot');
+    src: url('https://cdn.rawgit.com/rastikerdar/vazir-font/v26.0.2/dist/Vazir-Medium.eot?#iefix') format('embedded-opentype'),
+         url('https://cdn.rawgit.com/rastikerdar/vazir-font/v26.0.2/dist/Vazir-Medium.woff2') format('woff2'),
+         url('https://cdn.rawgit.com/rastikerdar/vazir-font/v26.0.2/dist/Vazir-Medium.woff') format('woff'),
+         url('https://cdn.rawgit.com/rastikerdar/vazir-font/v26.0.2/dist/Vazir-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+@font-face {
+    font-family: Vazir;
+    src: url('https://cdn.rawgit.com/rastikerdar/vazir-font/v26.0.2/dist/Vazir-Light.eot');
+    src: url('https://cdn.rawgit.com/rastikerdar/vazir-font/v26.0.2/dist/Vazir-Light.eot?#iefix') format('embedded-opentype'),
+         url('https://cdn.rawgit.com/rastikerdar/vazir-font/v26.0.2/dist/Vazir-Light.woff2') format('woff2'),
+         url('https://cdn.rawgit.com/rastikerdar/vazir-font/v26.0.2/dist/Vazir-Light.woff') format('woff'),
+         url('https://cdn.rawgit.com/rastikerdar/vazir-font/v26.0.2/dist/Vazir-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+@font-face {
+    font-family: Vazir;
+    src: url('https://cdn.rawgit.com/rastikerdar/vazir-font/v26.0.2/dist/Vazir-Thin.eot');
+    src: url('https://cdn.rawgit.com/rastikerdar/vazir-font/v26.0.2/dist/Vazir-Thin.eot?#iefix') format('embedded-opentype'),
+         url('https://cdn.rawgit.com/rastikerdar/vazir-font/v26.0.2/dist/Vazir-Thin.woff2') format('woff2'),
+         url('https://cdn.rawgit.com/rastikerdar/vazir-font/v26.0.2/dist/Vazir-Thin.woff') format('woff'),
+         url('https://cdn.rawgit.com/rastikerdar/vazir-font/v26.0.2/dist/Vazir-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+  font-family: Sahel;
+  src: url('https://cdn.rawgit.com/rastikerdar/sahel-font/v3.4.0/dist/Sahel.eot');
+  src: url('https://cdn.rawgit.com/rastikerdar/sahel-font/v3.4.0/dist/Sahel.eot?#iefix') format('embedded-opentype'),
+       url('https://cdn.rawgit.com/rastikerdar/sahel-font/v3.4.0/dist/Sahel.woff2') format('woff2'),
+       url('https://cdn.rawgit.com/rastikerdar/sahel-font/v3.4.0/dist/Sahel.woff') format('woff'),
+       url('https://cdn.rawgit.com/rastikerdar/sahel-font/v3.4.0/dist/Sahel.ttf') format('truetype');
+  font-weight: normal;
+}
+      
+@font-face {
+  font-family: Sahel;
+  src: url('https://cdn.rawgit.com/rastikerdar/sahel-font/v3.4.0/dist/Sahel-Bold.eot');
+  src: url('https://cdn.rawgit.com/rastikerdar/sahel-font/v3.4.0/dist/Sahel-Bold.eot?#iefix') format('embedded-opentype'),
+       url('https://cdn.rawgit.com/rastikerdar/sahel-font/v3.4.0/dist/Sahel-Bold.woff2') format('woff2'),
+       url('https://cdn.rawgit.com/rastikerdar/sahel-font/v3.4.0/dist/Sahel-Bold.woff') format('woff'),
+       url('https://cdn.rawgit.com/rastikerdar/sahel-font/v3.4.0/dist/Sahel-Bold.ttf') format('truetype');
+  font-weight: bold;
+}
+
+@font-face {
+  font-family: Sahel;
+  src: url('https://cdn.rawgit.com/rastikerdar/sahel-font/v3.4.0/dist/Sahel-Light.eot');
+  src: url('https://cdn.rawgit.com/rastikerdar/sahel-font/v3.4.0/dist/Sahel-Light.eot?#iefix') format('embedded-opentype'),
+       url('https://cdn.rawgit.com/rastikerdar/sahel-font/v3.4.0/dist/Sahel-Light.woff2') format('woff2'),  
+       url('https://cdn.rawgit.com/rastikerdar/sahel-font/v3.4.0/dist/Sahel-Light.woff') format('woff'),
+       url('https://cdn.rawgit.com/rastikerdar/sahel-font/v3.4.0/dist/Sahel-Light.ttf') format('truetype');
+  font-weight: 300;
+}
+      
+@font-face {
+  font-family: Sahel;
+  src: url('https://cdn.rawgit.com/rastikerdar/sahel-font/v3.4.0/dist/Sahel-SemiBold.eot');
+  src: url('https://cdn.rawgit.com/rastikerdar/sahel-font/v3.4.0/dist/Sahel-SemiBold.eot?#iefix') format('embedded-opentype'),
+       url('https://cdn.rawgit.com/rastikerdar/sahel-font/v3.4.0/dist/Sahel-SemiBold.woff2') format('woff2'),  
+       url('https://cdn.rawgit.com/rastikerdar/sahel-font/v3.4.0/dist/Sahel-SemiBold.woff') format('woff'),
+       url('https://cdn.rawgit.com/rastikerdar/sahel-font/v3.4.0/dist/Sahel-SemiBold.ttf') format('truetype');
+  font-weight: 600;
+}
+
+@font-face {
+  font-family: Sahel;
+  src: url('https://cdn.rawgit.com/rastikerdar/sahel-font/v3.4.0/dist/Sahel-Black.eot');
+  src: url('https://cdn.rawgit.com/rastikerdar/sahel-font/v3.4.0/dist/Sahel-Black.eot?#iefix') format('embedded-opentype'),
+       url('https://cdn.rawgit.com/rastikerdar/sahel-font/v3.4.0/dist/Sahel-Black.woff2') format('woff2'),  
+       url('https://cdn.rawgit.com/rastikerdar/sahel-font/v3.4.0/dist/Sahel-Black.woff') format('woff'),
+       url('https://cdn.rawgit.com/rastikerdar/sahel-font/v3.4.0/dist/Sahel-Black.ttf') format('truetype');
+  font-weight: 900;
+}
+
+body {
+     font-size:20px;
+     font-family:Sahel,sans-serif; 
+     direction:rtl
+}
+ img {
+     max-width:100% 
+}
+ h1,h2,h3,h4,h5,h6 {
+     font-family:'Vazir',sans-serif;
+     text-transform:uppercase 
+}
+ .item {
+     padding-top:100px;
+     min-height:150px;
+     position:relative; 
+     text-align:right
+}
+ .item:before,.last-item:after {
+     background:#fff;
+     border:8px solid #000;
+     border-radius:50%;
+     width:40px;
+     height:40px;
+     display:inline-block;
+     content:"";
+     margin-right:1rem;
+     position:relative;
+     z-index:1;
+     right:calc(2% - 36px) 
+}
+ .vertical-line {
+     width:8px;
+     background-color:#000;
+     position:absolute;
+     right:calc(2% - 5px);
+     top:0;
+     bottom:0 
+}
+ .item .card-panel {
+     margin:0;
+     margin:2rem 3rem 0 0
+}
+ .item-date {
+     margin-top:-60px;
+     margin-right:4rem 
+}
+ .cv-title {
+     margin-bottom:0;
+     margin-left:calc(2% - 5px);
+     line-height:190%; 
+     text-align:right
+}
+ .cv-title span {
+     padding:1rem 
+}
+ .last-item{
+     padding-top:80px;
+     height:70px;
+     position:relative; 
+     text-align:right
+}
+h1 span a {
+	color: white;
+}
